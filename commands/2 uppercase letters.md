@@ -35,7 +35,7 @@
 
 `J` - join lines
 
-`K` - see :help K
+`K` - get the manual for the name of the shell command underneath the cursor
 
 `L` - move to the bottom of the window
 
