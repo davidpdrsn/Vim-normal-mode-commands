@@ -1,7 +1,7 @@
 # Vims normal mode commands
 
 ## Symbols
-` ` ` - jump to mark
+`<backtick above tab>` - jump to mark
 
 `~` - switch the case of the character underneath the cursor and move to the right
 
