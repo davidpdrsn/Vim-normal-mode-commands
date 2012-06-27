@@ -17,38 +17,38 @@
 
 `ctrl-i` - move forward in the jump list
 
-`ctrl-o` -
+`ctrl-o` - move backwards in the jump list
 
-`ctrl-p` -
+`ctrl-p` - move upwards linewise
 
 `ctrl-a` - increment the number underneath the cursor
 
-`ctrl-s` -
+`ctrl-s` - split the current window in two (type `ctrl-w` first)
 
 `ctrl-d` - scroll down half a screen
 
-`ctrl-f` -
+`ctrl-f` - scroll forwards one page
 
-`ctrl-g` -
+`ctrl-g` - show the current file name
 
-`ctrl-h` -
+`ctrl-h` - something with the hiding list, see :help ctrl-h
 
-`ctrl-j` -
+`ctrl-j` - move downwards linewise
 
-`ctrl-k` -
+`ctrl-k` - something with digraphs, see :help ctrl-k
 
-`ctrl-l` -
+`ctrl-l` - resfresh a directory listing
 
-`ctrl-z` -
+`ctrl-z` - suspend vim
 
 `ctrl-x` - decrement the number underneath the cursor
 
-`ctrl-c` -
+`ctrl-c` - abort current command
 
 `ctrl-v` - enter visual block mode
 
-`ctrl-b` -
+`ctrl-b` - scroll backwards one page
 
-`ctrl-n` -
+`ctrl-n` - move down linewise
 
-`ctrl-m` -
+`ctrl-m` - move to the first non blank character of the line below
