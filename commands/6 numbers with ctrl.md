@@ -1,4 +1,4 @@
 # Vims normal mode commands
 
 ## Numbers with ctrl
-Coming soon...
+Numbers with ctrl doesn't do anything
